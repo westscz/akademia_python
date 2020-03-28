@@ -1,2 +1,3 @@
-# akademia_python_code
-Articles code
+# Akademia Python Code
+
+Code used to create articles on https://akademiapython.pl/
