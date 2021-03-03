@@ -1,3 +1,9 @@
-# Akademia Python Code
+# Akademia Python
 
-Code used to create articles on https://akademiapython.pl/
+This is repository for articles and code for them that are published on https://akademiapython.pl/
+
+## TODO
+
+- [ ] Structure of repository
+- [ ] Branch naming convention
+- [ ] 
