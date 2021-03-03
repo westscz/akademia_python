@@ -6,3 +6,4 @@ This is repository for articles and code for them that are published on https://
 
 - [ ] Structure of repository
 - [ ] Branch naming convention
+- [ ] Article directory structure and template
