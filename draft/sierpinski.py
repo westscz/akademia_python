@@ -43,8 +43,7 @@ result = sierp(create_table(3))
 assert result == [[1, 1, 1], [1, 0, 1], [1, 1, 1]]
 
 result = sierp(create_table(pow(3, 5)))
-# for line in result:
-#     print(line)
+
 
 import tkinter
 
@@ -66,5 +65,4 @@ for x, row in enumerate(result):
                 fill="white" if not field else "black",
             )
 
-# root.bind()
 root.mainloop()
